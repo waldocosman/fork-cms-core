@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale>
+	<backend>
+		<contest>
+            <item type="label" name="AddQuestion">
+                <translation language="nl"><![CDATA[Vraag toevoegen]]></translation>
+            </item>
+            <item type="label" name="Answer">
+                <translation language="nl"><![CDATA[Antwoord]]></translation>
+            </item>
+            <item type="label" name="MultipleParticipationsPossible">
+                <translation language="nl"><![CDATA[Meerdere deelnames mogelijk]]></translation>
+            </item>
+            <item type="label" name="MustBeCorrect">
+                <translation language="nl"><![CDATA[Moet correct ingevuld zijn om mee te spelen]]></translation>
+            </item>
+            <item type="label" name="No">
+                <translation language="nl"><![CDATA[Nee]]></translation>
+            </item>
+            <item type="label" name="Points">
+                <translation language="nl"><![CDATA[Punten]]></translation>
+            </item>
+            <item type="label" name="ProfilesOnly">
+                <translation language="nl"><![CDATA[Enkel ingelogde profielen]]></translation>
+            </item>
+            <item type="label" name="Question">
+                <translation language="nl"><![CDATA[Vraag]]></translation>
+            </item>
+            <item type="label" name="Questions">
+                <translation language="nl"><![CDATA[Vragen]]></translation>
+            </item>
+            <item type="label" name="SuccessMessage">
+                <translation language="nl"><![CDATA[Succes boodschap]]></translation>
+            </item>
+            <item type="label" name="UserId">
+                <translation language="nl"><![CDATA[Gebruiker]]></translation>
+            </item>
+            <item type="label" name="Yes">
+                <translation language="nl"><![CDATA[Ja]]></translation>
+            </item>
+            <item type="label" name="CountQuestions">
+                <translation language="nl"><![CDATA[Aantal vragen]]></translation>
+            </item>
+            <item type="label" name="Scorelist">
+                <translation language="nl"><![CDATA[Scorelijst]]></translation>
+            </item>
+		</contest>
+		<core>
+			<item type="label" name="Contest">
+				<translation language="nl"><![CDATA[Wedstrijd]]></translation>
+				<translation language="en"><![CDATA[Contest]]></translation>
+			</item>
+            <item type="label" name="Required">
+                <translation language="nl"><![CDATA[Verplicht in te vullen]]></translation>
+            </item>
+
+		</core>
+	</backend>
+	<frontend>
+		<core>
+            <item type="message" name="ContestMultipleParticipations">
+                <translation language="nl"><![CDATA[Je kan slechts 1 maal mee spelen.]]></translation>
+            </item>
+            <item type="message" name="ContestProfilesOnly">
+                <translation language="nl"><![CDATA[Je moet ingelogd zijn om aan deze wedstrijd te kunnen deelnemen.]]></translation>
+            </item>
+            <item type="message" name="ContestSuccess">
+                <translation language="nl"><![CDATA[Bedankt voor je deelname!]]></translation>
+            </item>
+            <item type="label" name="ContestParticipated">
+                <translation language="nl"><![CDATA[Wedstrijden meegespeeld]]></translation>
+            </item>
+            <item type="label" name="Points">
+                <translation language="nl"><![CDATA[Punten]]></translation>
+            </item>
+            <item type="label" name="Scorelijst">
+                <translation language="nl"><![CDATA[Scorelijst]]></translation>
+            </item>
+            <item type="message" name="NoScores">
+                <translation language="nl"><![CDATA[Er zijn geen scores beschikbaar.]]></translation>
+            </item>
+            <item type="error" name="AnswerNotCorrect">
+                <translation language="nl"><![CDATA[Het antwoord is niet correct.]]></translation>
+            </item>
+            <item type="label" name="SaveAnswers">
+                <translation language="nl"><![CDATA[Antwoorden opslaan]]></translation>
+            </item>
+            <item type="label" name="SaveAnswer">
+                <translation language="nl"><![CDATA[Antwoord opslaan]]></translation>
+            </item>
+            <item type="message" name="NoQuestions">
+                <translation language="nl"><![CDATA[Er zijn geen vragen voor deze wedstrijd.]]></translation>
+            </item>
+		</core>
+	</frontend>
+</locale>
