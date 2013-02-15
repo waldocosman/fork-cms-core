@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale>
+	<backend>
+		<utilities>
+            <item type="label" name="ClassnameContainer">
+                <translation language="nl"><![CDATA[Klassename container]]></translation>
+            </item>
+            <item type="label" name="FontsizeLarge">
+                <translation language="nl"><![CDATA[Lettergrootte groot]]></translation>
+            </item>
+            <item type="label" name="FontsizeSmall">
+                <translation language="nl"><![CDATA[Lettergrootte klein]]></translation>
+            </item>
+		</utilities>
+		<core>
+            <item type="label" name="Fontsize">
+                <translation language="nl"><![CDATA[Lettergrootte]]></translation>
+                <translation language="fr"><![CDATA[Font]]></translation>
+                <translation language="en"><![CDATA[Fontsize]]></translation>
+            </item>
+            <item type="label" name="Utilities">
+                <translation language="nl"><![CDATA[Utilities]]></translation>
+                <translation language="fr"><![CDATA[Utilities]]></translation>
+                <translation language="en"><![CDATA[Utilities]]></translation>
+            </item>
+		</core>
+	</backend>
+	<frontend>
+		<core>
+		</core>
+	</frontend>
+</locale>

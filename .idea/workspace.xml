@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a41758fe-d83e-476a-a073-e174d2805333" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/cache/navigation/navigation.php" afterPath="$PROJECT_DIR$/backend/cache/navigation/navigation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/fork-cms-core.iml" afterPath="$PROJECT_DIR$/.idea/fork-cms-core.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/utilities/actions/index.php" afterPath="$PROJECT_DIR$/frontend/modules/utilities/actions/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/utilities/layout/templates/index.tpl" afterPath="$PROJECT_DIR$/frontend/modules/utilities/layout/templates/index.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/modules/utilities/layout/templates/index.tpl" afterPath="$PROJECT_DIR$/backend/modules/utilities/layout/templates/index.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/modules/utilities/engine/model.php" afterPath="$PROJECT_DIR$/backend/modules/utilities/engine/model.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.txt" afterPath="$PROJECT_DIR$/test.txt" />
+    </list>
+    <ignored path="fork-cms-core.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="add.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/modules/galleria/actions/add.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="59" selection-start="748" selection-end="748" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/modules/contest/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="22" selection-start="0" selection-end="537" vertical-scroll-proportion="-5.478261">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/backend/modules/utilities/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="0" selection-start="541" selection-end="541" vertical-scroll-proportion="0.49940547">
+              <folding>
+                <element signature="e#7#177#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="info.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/modules/contest/info.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="9" selection-start="570" selection-end="570" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/library/spoon/form/form.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="418" column="33" selection-start="10074" selection-end="10074" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/core/engine/form.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="277" column="20" selection-start="10332" selection-end="10332" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="model.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/modules/galleria/engine/model.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="461" column="76" selection-start="10275" selection-end="10275" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add.tpl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/modules/galleria/layout/templates/add.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="38" selection-start="603" selection-end="603" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="waldocomsa" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myStructureFilterPaths" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/backend/modules/contest/installer/data/install.sql" />
+        <option value="$PROJECT_DIR$/frontend/modules/contest/engine/model.php" />
+        <option value="$PROJECT_DIR$/frontend/modules/contest/widgets/contest.php" />
+        <option value="$PROJECT_DIR$/backend/modules/contest/installer/data/locale.xml" />
+        <option value="$PROJECT_DIR$/library/spoon/form/form.php" />
+        <option value="$PROJECT_DIR$/frontend/core/engine/model.php" />
+        <option value="$PROJECT_DIR$/library/spoon/form/file.php" />
+        <option value="$PROJECT_DIR$/frontend/core/engine/form.php" />
+        <option value="$PROJECT_DIR$/frontend/modules/profiles/layout/templates/file_upload.tpl" />
+        <option value="$PROJECT_DIR$/frontend/modules/profiles/actions/file_upload.php" />
+        <option value="$PROJECT_DIR$/frontend/core/engine/media.php" />
+        <option value="$PROJECT_DIR$/backend/modules/galleria/actions/edit_category.php" />
+        <option value="$PROJECT_DIR$/backend/modules/galleria/layout/templates/add.tpl" />
+        <option value="$PROJECT_DIR$/backend/modules/galleria/engine/model.php" />
+        <option value="$PROJECT_DIR$/backend/modules/galleria/actions/add.php" />
+        <option value="$PROJECT_DIR$/backend/modules/utilities/config.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="." />
+      <path value="$PROJECT_DIR$/../../bin/php5.3/lib/php" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1440" />
+    <option name="y" value="22" />
+    <option name="width" value="1680" />
+    <option name="height" value="1012" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PHP</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fork-cms-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fork-cms-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fork-cms-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fork-cms-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fork-cms-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fork-cms-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fork-cms-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fork-cms-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fork-cms-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fork-cms-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fork-cms-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utilities" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fork-cms-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fork-cms-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="199" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="201" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="199" />
+    <property name="options.lastSelected" value="preferences.keymap" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../base-x" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="205" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="999" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="999" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="205" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="201" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FullScreen" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="PublishConfig" serverName="fork-cms-core" serverId="2b8e6bdf-fa9b-4e54-80e9-96ac6d9eb990">
+    <servers>
+      <server id="0e2ee3f6-f570-4943-949a-73735dd3be98">
+        <serverdata />
+      </server>
+      <server id="10294778-d462-476d-bf06-af032814984c">
+        <serverdata />
+      </server>
+      <server id="15ace3ac-7f7c-4e3d-b0ad-fcd27912611b">
+        <serverdata />
+      </server>
+      <server id="17bf6809-201e-4839-9d46-de0f29ecf935">
+        <serverdata />
+      </server>
+      <server id="184123ae-acb9-4c99-a09d-6e7d5d6a6925">
+        <serverdata />
+      </server>
+      <server id="23995fda-e11d-4c00-b099-d9ae2278f6ef">
+        <serverdata />
+      </server>
+      <server id="279a22c3-dae9-4440-96df-b0b9131c2d6a">
+        <serverdata />
+      </server>
+      <server id="27a37158-bd10-44d9-ac1f-d12a23cf4c00">
+        <serverdata />
+      </server>
+      <server id="2804c707-cbec-4d16-9858-f7f76587d77e">
+        <serverdata />
+      </server>
+      <server id="2837589e-06e4-4c5f-b6f7-7cdf88482b6e">
+        <serverdata />
+      </server>
+      <server id="2b8e6bdf-fa9b-4e54-80e9-96ac6d9eb990">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="2cec6e91-7787-4f85-88e7-c770222d3eb3">
+        <serverdata />
+      </server>
+      <server id="2d4624c8-eaca-4523-b8e2-db453f8c9645">
+        <serverdata />
+      </server>
+      <server id="3133ede7-0bb3-40c4-ae17-b0ce1b325474">
+        <serverdata />
+      </server>
+      <server id="39104105-a997-41bc-83e3-9e3e6ca21044">
+        <serverdata />
+      </server>
+      <server id="39c8b614-ec47-4e35-a9d8-06ddb77d7d7e">
+        <serverdata />
+      </server>
+      <server id="4388a25a-c1d1-4d75-8cee-9c570ed517df">
+        <serverdata />
+      </server>
+      <server id="45db72b7-3798-48c7-aef8-af64ce56da01">
+        <serverdata />
+      </server>
+      <server id="46140255-c199-49f1-885a-fda51b8fa798">
+        <serverdata />
+      </server>
+      <server id="46ca3306-ff29-4987-80d2-05f9a38a8677">
+        <serverdata />
+      </server>
+      <server id="49b15d48-34d5-42a6-aee9-10a1f29fe0d8">
+        <serverdata />
+      </server>
+      <server id="49e819d5-3618-4bab-a16b-ed1578a10fdf">
+        <serverdata />
+      </server>
+      <server id="4a4f1789-7f4d-4285-a55c-f234279be53b">
+        <serverdata />
+      </server>
+      <server id="4f9ecec4-bff3-4cdf-8e89-7312a1c6fa79">
+        <serverdata />
+      </server>
+      <server id="512accbf-7558-4656-a515-292d5e67b107">
+        <serverdata />
+      </server>
+      <server id="5356230b-490e-44f9-9010-8565397dc75a">
+        <serverdata />
+      </server>
+      <server id="53a7e974-51b9-44cf-bb0b-b1f423962af5">
+        <serverdata />
+      </server>
+      <server id="55829725-b244-47e0-9c1f-66a36e54f5b6">
+        <serverdata />
+      </server>
+      <server id="5ef34d2f-9082-4d69-86d3-f37fecef9993">
+        <serverdata />
+      </server>
+      <server id="67908985-1562-4d25-897d-0f11eac4983c">
+        <serverdata />
+      </server>
+      <server id="842cf5b6-54bd-466e-998b-2074d3958f53">
+        <serverdata />
+      </server>
+      <server id="85259591-f2ab-45ec-87a5-24a277aea449">
+        <serverdata />
+      </server>
+      <server id="8675cc6e-0a01-462a-b0bc-0a9bfc0bff4a">
+        <serverdata />
+      </server>
+      <server id="8979cd3e-46ce-434b-bedd-400c1eae668d">
+        <serverdata />
+      </server>
+      <server id="900d0bb2-7256-4683-be82-ed0403526807">
+        <serverdata />
+      </server>
+      <server id="90eeeafb-2e6c-4ca1-a330-40e806d23b0a">
+        <serverdata />
+      </server>
+      <server id="96410c08-5d79-41ea-98c8-60f802cf52d7">
+        <serverdata />
+      </server>
+      <server id="9a060ecb-dc9d-46b3-99af-acad64be0251">
+        <serverdata />
+      </server>
+      <server id="9c723d8a-4ca9-4472-a945-71899d05c3f3">
+        <serverdata />
+      </server>
+      <server id="a043fe54-0a5e-4b25-b379-83b012801c90">
+        <serverdata />
+      </server>
+      <server id="a4827f01-bc4c-447b-84ab-29cfff1bd14a">
+        <serverdata />
+      </server>
+      <server id="a5de6693-2444-4ebb-9eb1-fa525a6ba5d5">
+        <serverdata />
+      </server>
+      <server id="a8f0a8ee-e8ae-4239-86de-492efec6f531">
+        <serverdata />
+      </server>
+      <server id="ae487700-95a7-4bda-9711-d4743d763ae2">
+        <serverdata />
+      </server>
+      <server id="b188c86f-fefd-4cb1-89c9-585f1c3f0020">
+        <serverdata />
+      </server>
+      <server id="b698ae91-7e44-4ba4-b75e-91a8a0cf7319">
+        <serverdata />
+      </server>
+      <server id="b69c42ee-d30e-409e-8e6a-4622f95af18e">
+        <serverdata />
+      </server>
+      <server id="c8978ee6-0942-42af-aa18-07ead93cf08f">
+        <serverdata />
+      </server>
+      <server id="d74eeb61-f89b-497b-975c-ed49d7b087a0">
+        <serverdata />
+      </server>
+      <server id="dc5e0584-41cd-455f-9225-e3759ad0cb15">
+        <serverdata />
+      </server>
+      <server id="de68209b-8606-474f-b97d-16862c78cdc3">
+        <serverdata />
+      </server>
+      <server id="ed8c04a5-a3b3-4381-ac59-28d99971b0d6">
+        <serverdata />
+      </server>
+      <server id="f1807531-d70b-4bf6-93db-658a11ae29b5">
+        <serverdata />
+      </server>
+      <server id="f248c295-aae1-4567-9da0-629ca9ea0196">
+        <serverdata />
+      </server>
+      <server id="f4bf805a-30f1-4d5b-bd44-b8b30ca66f4b">
+        <serverdata />
+      </server>
+      <server id="f500bc82-90fd-45af-89b7-4c7d7f49834d">
+        <serverdata />
+      </server>
+      <server id="f98a043a-b98f-497b-ba18-eff1d25dd7d8">
+        <serverdata />
+      </server>
+    </servers>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backend/modules/contest/ajax" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="2b8e6bdf-fa9b-4e54-80e9-96ac6d9eb990" server_name="fork-cms-core">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a41758fe-d83e-476a-a073-e174d2805333" name="Default" comment="" />
+      <created>1350542391324</created>
+      <updated>1350542391324</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Test commit from phpstorm">
+      <created>1350546823508</created>
+      <updated>1350546823508</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Test commit from phpstorm">
+      <created>1350547191564</created>
+      <updated>1350547191564</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1440" y="22" width="1680" height="1012" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21358629" sideWeight="0.3325967" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20746633" sideWeight="0.6714443" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296582" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296582" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32855567" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296582" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test commit from phpstorm" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="Test commit from phpstorm" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/backend/modules/galleria/layout/templates/add_category.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="28" selection-start="646" selection-end="646" vertical-scroll-proportion="0.29964328" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/modules/blog/layout/templates/add.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="10" selection-start="578" selection-end="578" vertical-scroll-proportion="0.26634958" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/modules/galleria/layout/templates/add_album.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="38" selection-start="427" selection-end="962" vertical-scroll-proportion="0.46611178" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/core/engine/media.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="126" column="4" selection-start="2419" selection-end="3341" vertical-scroll-proportion="-15.826087" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/profiles/actions/file_upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="43" selection-start="1453" selection-end="1453" vertical-scroll-proportion="-42.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/modules/contest/engine/model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="175" column="5" selection-start="3140" selection-end="3962" vertical-scroll-proportion="0.62842894" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/modules/blog/actions/add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="138" column="38" selection-start="4911" selection-end="4937" vertical-scroll-proportion="0.5748792" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/modules/galleria/engine/model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="461" column="76" selection-start="10275" selection-end="10275" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/core/engine/form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="277" column="20" selection-start="10332" selection-end="10332" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/spoon/form/password.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="0" selection-start="1550" selection-end="1550" vertical-scroll-proportion="0.4057971" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/spoon/form/form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="418" column="33" selection-start="10074" selection-end="10074" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/modules/galleria/actions/add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="59" selection-start="748" selection-end="748" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/modules/galleria/layout/templates/add.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="38" selection-start="603" selection-end="603" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/modules/contest/info.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="9" selection-start="570" selection-end="570" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/modules/contest/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="22" selection-start="0" selection-end="537" vertical-scroll-proportion="-5.478261">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/modules/utilities/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="0" selection-start="541" selection-end="541" vertical-scroll-proportion="0.49940547">
+          <folding>
+            <element signature="e#7#177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
