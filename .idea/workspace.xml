@@ -1,23 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a41758fe-d83e-476a-a073-e174d2805333" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/cache/navigation/navigation.php" afterPath="$PROJECT_DIR$/backend/cache/navigation/navigation.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/fork-cms-core.iml" afterPath="$PROJECT_DIR$/.idea/fork-cms-core.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/utilities/actions/index.php" afterPath="$PROJECT_DIR$/frontend/modules/utilities/actions/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/utilities/layout/templates/index.tpl" afterPath="$PROJECT_DIR$/frontend/modules/utilities/layout/templates/index.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/modules/utilities/layout/templates/index.tpl" afterPath="$PROJECT_DIR$/backend/modules/utilities/layout/templates/index.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/modules/utilities/engine/model.php" afterPath="$PROJECT_DIR$/backend/modules/utilities/engine/model.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.txt" afterPath="$PROJECT_DIR$/test.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/cache/navigation/navigation.php" afterPath="$PROJECT_DIR$/backend/cache/navigation/navigation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/modules/utilities/layout/templates/index.tpl" afterPath="$PROJECT_DIR$/backend/modules/utilities/layout/templates/index.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/utilities/actions/index.php" afterPath="$PROJECT_DIR$/frontend/modules/utilities/actions/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/modules/utilities/engine/model.php" afterPath="$PROJECT_DIR$/backend/modules/utilities/engine/model.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/fork-cms-core.iml" afterPath="$PROJECT_DIR$/.idea/fork-cms-core.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/utilities/layout/templates/index.tpl" afterPath="$PROJECT_DIR$/frontend/modules/utilities/layout/templates/index.tpl" />
     </list>
     <ignored path="fork-cms-core.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,82 +39,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="add.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/modules/galleria/actions/add.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="59" selection-start="748" selection-end="748" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/modules/contest/config.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="22" selection-start="0" selection-end="537" vertical-scroll-proportion="-5.478261">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/backend/modules/utilities/config.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="0" selection-start="541" selection-end="541" vertical-scroll-proportion="0.49940547">
-              <folding>
-                <element signature="e#7#177#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="info.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/modules/contest/info.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="9" selection-start="570" selection-end="570" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="form.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/library/spoon/form/form.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="418" column="33" selection-start="10074" selection-end="10074" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="form.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/core/engine/form.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="277" column="20" selection-start="10332" selection-end="10332" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="model.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/modules/galleria/engine/model.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="461" column="76" selection-start="10275" selection-end="10275" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="add.tpl" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/modules/galleria/layout/templates/add.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="38" selection-start="603" selection-end="603" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -132,22 +60,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/backend/modules/contest/installer/data/install.sql" />
-        <option value="$PROJECT_DIR$/frontend/modules/contest/engine/model.php" />
-        <option value="$PROJECT_DIR$/frontend/modules/contest/widgets/contest.php" />
-        <option value="$PROJECT_DIR$/backend/modules/contest/installer/data/locale.xml" />
-        <option value="$PROJECT_DIR$/library/spoon/form/form.php" />
-        <option value="$PROJECT_DIR$/frontend/core/engine/model.php" />
-        <option value="$PROJECT_DIR$/library/spoon/form/file.php" />
         <option value="$PROJECT_DIR$/frontend/core/engine/form.php" />
         <option value="$PROJECT_DIR$/frontend/modules/profiles/layout/templates/file_upload.tpl" />
         <option value="$PROJECT_DIR$/frontend/modules/profiles/actions/file_upload.php" />
         <option value="$PROJECT_DIR$/frontend/core/engine/media.php" />
         <option value="$PROJECT_DIR$/backend/modules/galleria/actions/edit_category.php" />
         <option value="$PROJECT_DIR$/backend/modules/galleria/layout/templates/add.tpl" />
-        <option value="$PROJECT_DIR$/backend/modules/galleria/engine/model.php" />
-        <option value="$PROJECT_DIR$/backend/modules/galleria/actions/add.php" />
         <option value="$PROJECT_DIR$/backend/modules/utilities/config.php" />
+        <option value="$PROJECT_DIR$/backend/modules/galleria/actions/add.php" />
+        <option value="$PROJECT_DIR$/backend/modules/galleria/js/galleria.js" />
+        <option value="$PROJECT_DIR$/backend/modules/galleria/ajax/images_sequence.php" />
+        <option value="$PROJECT_DIR$/backend/modules/galleria/js/edit.js" />
+        <option value="$PROJECT_DIR$/backend/modules/galleria/layout/css/galleria.css" />
+        <option value="$PROJECT_DIR$/backend/modules/galleria/actions/albums.php" />
+        <option value="$PROJECT_DIR$/backend/modules/galleria/engine/model.php" />
+        <option value="$PROJECT_DIR$/backend/modules/galleria/actions/edit_album.php" />
+        <option value="$PROJECT_DIR$/backend/modules/galleria/layout/templates/edit_album.tpl" />
       </list>
     </option>
   </component>
@@ -160,8 +88,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="1440" />
     <option name="y" value="22" />
-    <option name="width" value="1680" />
-    <option name="height" value="1012" />
+    <option name="width" value="1679" />
+    <option name="height" value="1022" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -205,7 +133,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -266,7 +193,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="backend" />
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="galleria" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="x150" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -280,15 +223,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="backend" />
+              <option name="myItemId" value="frontend" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
+              <option name="myItemId" value="files" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="utilities" />
+              <option name="myItemId" value="galleria" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -302,16 +253,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="backend" />
+              <option name="myItemId" value="frontend" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
+              <option name="myItemId" value="files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="galleria" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="128x128" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -323,10 +287,10 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="199" />
-    <property name="options.lastSelected" value="preferences.keymap" />
+    <property name="options.lastSelected" value="editing.templates" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../base-x" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../interio" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="205" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="999" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="999" />
@@ -341,6 +305,9 @@
   </component>
   <component name="PublishConfig" serverName="fork-cms-core" serverId="2b8e6bdf-fa9b-4e54-80e9-96ac6d9eb990">
     <servers>
+      <server id="0d6b32be-b170-4ad8-8ba9-68f8895dc26f">
+        <serverdata />
+      </server>
       <server id="0e2ee3f6-f570-4943-949a-73735dd3be98">
         <serverdata />
       </server>
@@ -354,6 +321,9 @@
         <serverdata />
       </server>
       <server id="184123ae-acb9-4c99-a09d-6e7d5d6a6925">
+        <serverdata />
+      </server>
+      <server id="22ef5f71-5f8a-4a77-a4ea-365e1154ee62">
         <serverdata />
       </server>
       <server id="23995fda-e11d-4c00-b099-d9ae2278f6ef">
@@ -391,6 +361,9 @@
         <serverdata />
       </server>
       <server id="39c8b614-ec47-4e35-a9d8-06ddb77d7d7e">
+        <serverdata />
+      </server>
+      <server id="41b8dff8-cdcb-468a-bcf5-f5e95fbf3629">
         <serverdata />
       </server>
       <server id="4388a25a-c1d1-4d75-8cee-9c570ed517df">
@@ -504,6 +477,9 @@
       <server id="f1807531-d70b-4bf6-93db-658a11ae29b5">
         <serverdata />
       </server>
+      <server id="f1b45cd5-d00e-4348-a073-b711d726254c">
+        <serverdata />
+      </server>
       <server id="f248c295-aae1-4567-9da0-629ca9ea0196">
         <serverdata />
       </server>
@@ -555,27 +531,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="22" width="1680" height="1012" extended-state="0" />
-    <editor active="true" />
+    <frame x="1440" y="22" width="1679" height="1022" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21358629" sideWeight="0.3325967" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20746633" sideWeight="0.6714443" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23882425" sideWeight="0.3318535" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2418861" sideWeight="0.6603774" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296582" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.223515" sideWeight="0.3263041" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852387" sideWeight="0.4978567" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296582" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32855567" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852387" sideWeight="0.4978567" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296582" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39955604" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -632,102 +608,101 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/backend/modules/galleria/layout/templates/add_category.tpl">
+    <entry file="file://$PROJECT_DIR$/backend/modules/galleria/js/edit.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="28" selection-start="646" selection-end="646" vertical-scroll-proportion="0.29964328" />
+        <state line="28" column="17" selection-start="611" selection-end="611" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend/modules/blog/layout/templates/add.tpl">
+    <entry file="file://$PROJECT_DIR$/backend/modules/galleria/layout/css/galleria.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="10" selection-start="578" selection-end="578" vertical-scroll-proportion="0.26634958" />
+        <state line="3" column="0" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend/modules/galleria/layout/templates/add_album.tpl">
+    <entry file="file://$PROJECT_DIR$/backend/modules/galleria/actions/albums.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="38" selection-start="427" selection-end="962" vertical-scroll-proportion="0.46611178" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/core/engine/media.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="126" column="4" selection-start="2419" selection-end="3341" vertical-scroll-proportion="-15.826087" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/modules/profiles/actions/file_upload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="43" selection-start="1453" selection-end="1453" vertical-scroll-proportion="-42.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/modules/contest/engine/model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="175" column="5" selection-start="3140" selection-end="3962" vertical-scroll-proportion="0.62842894" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/modules/blog/actions/add.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="138" column="38" selection-start="4911" selection-end="4937" vertical-scroll-proportion="0.5748792" />
+        <state line="47" column="42" selection-start="922" selection-end="922" vertical-scroll-proportion="-14.130435">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/backend/modules/galleria/engine/model.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="461" column="76" selection-start="10275" selection-end="10275" vertical-scroll-proportion="0.0">
+        <state line="257" column="50" selection-start="5370" selection-end="5393" vertical-scroll-proportion="0.40147784">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend/core/engine/form.php">
+    <entry file="file://$PROJECT_DIR$/backend/modules/galleria/actions/edit_album.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="277" column="20" selection-start="10332" selection-end="10332" vertical-scroll-proportion="0.0">
+        <state line="147" column="19" selection-start="3551" selection-end="3551" vertical-scroll-proportion="-11.478261">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/library/spoon/form/password.php">
+    <entry file="file://$PROJECT_DIR$/backend/core/engine/base.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="0" selection-start="1550" selection-end="1550" vertical-scroll-proportion="0.4057971" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/library/spoon/form/form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="418" column="33" selection-start="10074" selection-end="10074" vertical-scroll-proportion="0.0">
+        <state line="135" column="16" selection-start="2440" selection-end="2440" vertical-scroll-proportion="0.5763723">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend/modules/galleria/actions/add.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="59" selection-start="748" selection-end="748" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/frontend/files/galleria/images/source/stock-photo-18988431-transmission-tower.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend/modules/galleria/layout/templates/add.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="38" selection-start="603" selection-end="603" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/frontend/files/galleria/images/source/stock-photo-16702791-electricity-pylon.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend/modules/contest/info.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="9" selection-start="570" selection-end="570" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/frontend/files/galleria/images/128x128/stock-photo-15263466-seafood-lobster1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend/modules/contest/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="22" selection-start="0" selection-end="537" vertical-scroll-proportion="-5.478261">
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/frontend/files/galleria/images/x150/stock-photo-19781922-biomass-energy-plant-germany.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend/modules/utilities/config.php">
+    <entry file="file://$PROJECT_DIR$/frontend/files/galleria/images/x150/stock-photo-18988431-transmission-tower.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/files/galleria/images/x150/stock-photo-19513825-power-plant1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/modules/galleria/layout/templates/edit_album.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="541" selection-end="541" vertical-scroll-proportion="0.49940547">
+        <state line="99" column="35" selection-start="4826" selection-end="4826" vertical-scroll-proportion="0.34313726">
           <folding>
-            <element signature="e#7#177#0" expanded="true" />
+            <element signature="e#3838#3860#0" expanded="true" />
+            <element signature="e#4520#4547#0" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/files/galleria/images/128x128/stock-photo-18988431-transmission-tower.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/files/galleria/images/128x128/stock-photo-16702791-electricity-pylon.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/files/galleria/images/x150/stock-photo-19605912-wind-generator-turbines-in-sky.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>

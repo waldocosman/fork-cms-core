@@ -59,7 +59,7 @@ class BackendGalleriaAdd extends BackendBaseActionAdd
 		// add the formfields
 		$this->frm->addDropdown('album',$this->albums,$this->album_id);
 		$this->frm->addHidden('dummy_images');
-		$this->frm->addImages('images');
+		$this->frm->addImage('images');
 	}
 
 	/**

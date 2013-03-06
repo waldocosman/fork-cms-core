@@ -4,3 +4,5 @@
 .settings
 .*.swp
 backend/cache/navigation/
+*.jpg
+backup/
