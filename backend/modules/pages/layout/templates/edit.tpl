@@ -44,6 +44,7 @@
 			<li><a href="#tabTags">{$lblTags|ucfirst}</a></li>
 			<li><a href="#tabSEO">{$lblSEO|ucfirst}</a></li>
 			<li><a href="#tabVersions">{$lblVersions|ucfirst}</a></li>
+			<li><a href="#tabMedia">{$lblMedia|ucfirst}</a></li>
 		</ul>
 
 		<div id="tabContent">
@@ -328,6 +329,10 @@
 				</ul>
 			{/option:isGod}
 		</div>
+        <div id="tabMedia">
+            {include:{$BACKEND_CORE_PATH}/layout/templates/media.tpl}
+        </div>
+
 	</div>
 
 	{*

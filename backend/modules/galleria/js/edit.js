@@ -34,7 +34,7 @@ jsBackend.galleria =
                 //--Create a string of the array with a , delimeter.
                 var strIds = arrIds.join(',');
 
-            //--Create ajax-call
+                //--Create ajax-call
                 $.ajax(
                 {
                     data:

@@ -99,6 +99,9 @@ class FrontendPage extends FrontendBaseObject
 		// get pagecontent
 		$this->getPageContent();
 
+		//--Get imagess for the page
+		$this->tpl->assign("mediaItems", FrontendMedia::getFromModule("pages", $this->pageId));
+
 		// process page
 		$this->processPage();
 
@@ -107,6 +110,7 @@ class FrontendPage extends FrontendBaseObject
 
 		// store statistics
 		$this->storeStatistics();
+
 
 		// display
 		$this->display();

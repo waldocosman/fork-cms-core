@@ -5,25 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a41758fe-d83e-476a-a073-e174d2805333" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.txt" afterPath="$PROJECT_DIR$/test.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/cache/navigation/navigation.php" afterPath="$PROJECT_DIR$/backend/cache/navigation/navigation.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/modules/utilities/layout/templates/index.tpl" afterPath="$PROJECT_DIR$/backend/modules/utilities/layout/templates/index.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/utilities/actions/index.php" afterPath="$PROJECT_DIR$/frontend/modules/utilities/actions/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/modules/utilities/engine/model.php" afterPath="$PROJECT_DIR$/backend/modules/utilities/engine/model.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/fork-cms-core.iml" afterPath="$PROJECT_DIR$/.idea/fork-cms-core.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/utilities/layout/templates/index.tpl" afterPath="$PROJECT_DIR$/frontend/modules/utilities/layout/templates/index.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/fork-cms-core.iml" afterPath="$PROJECT_DIR$/.idea/fork-cms-core.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/cache/navigation/navigation.php" afterPath="$PROJECT_DIR$/backend/cache/navigation/navigation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.txt" afterPath="$PROJECT_DIR$/test.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/utilities/actions/index.php" afterPath="$PROJECT_DIR$/frontend/modules/utilities/actions/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/modules/utilities/engine/model.php" afterPath="$PROJECT_DIR$/backend/modules/utilities/engine/model.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/modules/utilities/layout/templates/index.tpl" afterPath="$PROJECT_DIR$/backend/modules/utilities/layout/templates/index.tpl" />
     </list>
     <ignored path="fork-cms-core.iws" />
     <ignored path=".idea/workspace.xml" />
+    <file path="/settings.php" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363610400227" ignored="false" />
+    <file path="/get_access_token.php" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363186583376" ignored="false" />
+    <file path="/settings.tpl" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363354080690" ignored="false" />
+    <file path="/model.php" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363611799256" ignored="false" />
+    <file path="/media_recent.php" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363353180773" ignored="false" />
+    <file path="/media_recent.tpl" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363351382740" ignored="false" />
+    <file path="/instagram.js" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363356912794" ignored="false" />
+    <file path="/a.dummy" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363707467230" ignored="false" />
+    <file path="/dummy.xml" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363623985549" ignored="false" />
+    <file path="/instagram.css" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363355562968" ignored="false" />
+    <file path="$PROJECT_DIR$/frontend/cache/compiled_templates/58c8b0dd29039ab9f63fb6a667023e5d_media_recent.tpl.php" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363352464116" ignored="false" />
+    <file path="/user_media_recent.php" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363611308056" ignored="false" />
+    <file path="$PROJECT_DIR$/frontend/cache/compiled_templates/99f5a00631ab9e947d54729c8ca3e17d_user_media_recent.tpl.php" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363355380824" ignored="false" />
+    <file path="/info.xml" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363610433535" ignored="false" />
+    <file path="/a.php" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363785392440" ignored="false" />
+    <file path="/locale.xml" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363615019414" ignored="false" />
+    <file path="/media.php" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363784434025" ignored="false" />
+    <file path="/edit.php" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363704307189" ignored="false" />
+    <file path="/edit.tpl" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363622994407" ignored="false" />
+    <file path="/media.tpl" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363708685441" ignored="false" />
+    <file path="/media.css" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363708613581" ignored="false" />
+    <file path="/screen.css" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363708445512" ignored="false" />
+    <file path="/edit.js" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363709249564" ignored="false" />
+    <file path="/page.php" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363710068226" ignored="false" />
+    <file path="/head.tpl" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363709864126" ignored="false" />
+    <file path="/default.tpl" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363710178350" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +64,39 @@
     <disable_hints />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="fork-cms-core" />
+  </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="media.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/frontend/core/engine/media.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="224" column="14" selection-start="4550" selection-end="4550" vertical-scroll-proportion="3.8732395">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="media.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../westhoekkabongers/frontend/core/engine/media.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="211" column="5" selection-start="98" selection-end="4417" vertical-scroll-proportion="-30.5">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="media.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/core/engine/media.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="141" column="5" selection-start="1416" selection-end="2240" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -60,22 +117,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/frontend/core/engine/form.php" />
-        <option value="$PROJECT_DIR$/frontend/modules/profiles/layout/templates/file_upload.tpl" />
-        <option value="$PROJECT_DIR$/frontend/modules/profiles/actions/file_upload.php" />
-        <option value="$PROJECT_DIR$/frontend/core/engine/media.php" />
-        <option value="$PROJECT_DIR$/backend/modules/galleria/actions/edit_category.php" />
-        <option value="$PROJECT_DIR$/backend/modules/galleria/layout/templates/add.tpl" />
-        <option value="$PROJECT_DIR$/backend/modules/utilities/config.php" />
-        <option value="$PROJECT_DIR$/backend/modules/galleria/actions/add.php" />
-        <option value="$PROJECT_DIR$/backend/modules/galleria/js/galleria.js" />
-        <option value="$PROJECT_DIR$/backend/modules/galleria/ajax/images_sequence.php" />
+        <option value="$PROJECT_DIR$/frontend/modules/instagram/ajax/user_media_recent.php" />
+        <option value="$PROJECT_DIR$/frontend/modules/instagram/engine/model.php" />
+        <option value="$PROJECT_DIR$/backend/modules/instagram/installer/installer.php" />
+        <option value="$PROJECT_DIR$/backend/modules/instagram/installer/data/locale.xml" />
+        <option value="$PROJECT_DIR$/backend/modules/pages/layout/templates/edit.tpl" />
+        <option value="$PROJECT_DIR$/backend/modules/pages/actions/edit.php" />
+        <option value="$PROJECT_DIR$/backend/core/engine/media.php" />
+        <option value="$PROJECT_DIR$/library/spoon/file/file.php" />
+        <option value="$PROJECT_DIR$/backend/core/layout/css/imports/media.css" />
+        <option value="$PROJECT_DIR$/backend/core/layout/templates/media.tpl" />
+        <option value="$PROJECT_DIR$/backend/core/layout/css/screen.css" />
         <option value="$PROJECT_DIR$/backend/modules/galleria/js/edit.js" />
-        <option value="$PROJECT_DIR$/backend/modules/galleria/layout/css/galleria.css" />
-        <option value="$PROJECT_DIR$/backend/modules/galleria/actions/albums.php" />
-        <option value="$PROJECT_DIR$/backend/modules/galleria/engine/model.php" />
-        <option value="$PROJECT_DIR$/backend/modules/galleria/actions/edit_album.php" />
-        <option value="$PROJECT_DIR$/backend/modules/galleria/layout/templates/edit_album.tpl" />
+        <option value="$PROJECT_DIR$/frontend/themes/triton/core/layout/templates/head.tpl" />
+        <option value="$PROJECT_DIR$/frontend/core/engine/page.php" />
+        <option value="$PROJECT_DIR$/frontend/themes/triton/core/layout/templates/default.tpl" />
+        <option value="$PROJECT_DIR$/frontend/core/engine/media.php" />
       </list>
     </option>
   </component>
@@ -97,6 +154,39 @@
         <expanded-state>
           <State>
             <id />
+          </State>
+          <State>
+            <id>Assignment issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsCoffeeScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
           </State>
         </expanded-state>
         <selected-state>
@@ -133,6 +223,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -161,7 +252,173 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fork-cms-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fork-cms-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fork-cms-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fork-cms-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="triton" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fork-cms-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fork-cms-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="triton" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fork-cms-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fork-cms-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="triton" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fork-cms-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fork-cms-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="triton" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fork-cms-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fork-cms-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fork-cms-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fork-cms-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="instagram" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -201,15 +458,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="galleria" />
+              <option name="myItemId" value="media" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="x150" />
+              <option name="myItemId" value="fork-cms-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fork-cms-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -223,59 +490,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="frontend" />
+              <option name="myItemId" value="backend" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="galleria" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fork-cms-core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fork-cms-core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="galleria" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="128x128" />
+              <option name="myItemId" value="core" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -287,10 +511,10 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="199" />
-    <property name="options.lastSelected" value="editing.templates" />
+    <property name="options.lastSelected" value="preferences.sourceCode.PHP" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../interio" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../potofoer" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="205" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="999" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="999" />
@@ -305,6 +529,9 @@
   </component>
   <component name="PublishConfig" serverName="fork-cms-core" serverId="2b8e6bdf-fa9b-4e54-80e9-96ac6d9eb990">
     <servers>
+      <server id="05d074e9-8e76-4670-8d72-49def2e53079">
+        <serverdata />
+      </server>
       <server id="0d6b32be-b170-4ad8-8ba9-68f8895dc26f">
         <serverdata />
       </server>
@@ -339,6 +566,9 @@
         <serverdata />
       </server>
       <server id="2837589e-06e4-4c5f-b6f7-7cdf88482b6e">
+        <serverdata />
+      </server>
+      <server id="2a5e98d8-76ab-423a-b248-310b13bd433a">
         <serverdata />
       </server>
       <server id="2b8e6bdf-fa9b-4e54-80e9-96ac6d9eb990">
@@ -450,6 +680,9 @@
       <server id="ae487700-95a7-4bda-9711-d4743d763ae2">
         <serverdata />
       </server>
+      <server id="aeed2563-67db-418e-b048-16187cd4fe24">
+        <serverdata />
+      </server>
       <server id="b188c86f-fefd-4cb1-89c9-585f1c3f0020">
         <serverdata />
       </server>
@@ -496,7 +729,12 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend/modules/instagram/layout/templates" />
       <recent name="$PROJECT_DIR$/backend/modules/contest/ajax" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend/modules/instagram/layout/images" />
+      <recent name="$PROJECT_DIR$/frontend/modules" />
     </key>
   </component>
   <component name="RunManager">
@@ -530,28 +768,49 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="22" width="1679" height="1022" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32964602" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32743362" sideWeight="0.4978567" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23882425" sideWeight="0.3318535" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2418861" sideWeight="0.6603774" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2767912" sideWeight="0.3263041" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22596449" sideWeight="0.6006637" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.223515" sideWeight="0.3263041" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39933628" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3233313" sideWeight="0.21238938" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852387" sideWeight="0.4978567" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296582" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852387" sideWeight="0.4978567" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296582" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32964602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39955604" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2498469" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -587,6 +846,13 @@
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
     <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
     <option name="LAST_COMMIT_MESSAGE" value="Test commit from phpstorm" />
@@ -600,6 +866,7 @@
     <option name="ACTIVE_VCS_NAME" />
     <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="Test commit from phpstorm" />
@@ -608,101 +875,104 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/backend/core/layout/css/screen.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="20" selection-start="893" selection-end="893" vertical-scroll-proportion="0.6758621" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/core/js/backend.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-36.587303" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/core/layout/templates/media.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="6" selection-start="884" selection-end="884" vertical-scroll-proportion="0.51258993">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/backend/modules/galleria/js/edit.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="17" selection-start="611" selection-end="611" vertical-scroll-proportion="0.0">
+        <state line="38" column="17" selection-start="972" selection-end="972" vertical-scroll-proportion="0.5603448">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend/modules/galleria/layout/css/galleria.css">
+    <entry file="file://$PROJECT_DIR$/backend/modules/galleria/ajax/images_sequence.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/spoon/file/file.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="21" selection-start="935" selection-end="935" vertical-scroll-proportion="0.66366905" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/core/engine/media.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="141" column="5" selection-start="1416" selection-end="2240" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend/modules/galleria/actions/albums.php">
+    <entry file="file://$PROJECT_DIR$/frontend/modules/pages/engine/model.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="42" selection-start="922" selection-end="922" vertical-scroll-proportion="-14.130435">
+        <state line="19" column="6" selection-start="506" selection-end="506" vertical-scroll-proportion="0.37769786" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/themes/triton/core/layout/templates/head.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="0" selection-start="957" selection-end="957" vertical-scroll-proportion="0.8093525">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend/modules/galleria/engine/model.php">
+    <entry file="file://$PROJECT_DIR$/backend/core/js/ckfinder/core/connector/php/php5/Core/Hooks.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="257" column="50" selection-start="5370" selection-end="5393" vertical-scroll-proportion="0.40147784">
+        <state line="128" column="14" selection-start="4450" selection-end="4450" vertical-scroll-proportion="0.3465704">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend/modules/galleria/actions/edit_album.php">
+    <entry file="file://$PROJECT_DIR$/backend/core/engine/api.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="147" column="19" selection-start="3551" selection-end="3551" vertical-scroll-proportion="-11.478261">
+        <state line="24" column="33" selection-start="610" selection-end="610" vertical-scroll-proportion="0.34750462">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend/core/engine/base.php">
+    <entry file="file://$PROJECT_DIR$/backend/core/engine/template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="135" column="16" selection-start="2440" selection-end="2440" vertical-scroll-proportion="0.5763723">
+        <state line="526" column="34" selection-start="15952" selection-end="15952" vertical-scroll-proportion="0.34750462">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/files/galleria/images/source/stock-photo-18988431-transmission-tower.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/files/galleria/images/source/stock-photo-16702791-electricity-pylon.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/files/galleria/images/128x128/stock-photo-15263466-seafood-lobster1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/files/galleria/images/x150/stock-photo-19781922-biomass-energy-plant-germany.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/files/galleria/images/x150/stock-photo-18988431-transmission-tower.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/files/galleria/images/x150/stock-photo-19513825-power-plant1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/modules/galleria/layout/templates/edit_album.tpl">
+    <entry file="file://$PROJECT_DIR$/frontend/themes/triton/core/layout/templates/default.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="35" selection-start="4826" selection-end="4826" vertical-scroll-proportion="0.34313726">
-          <folding>
-            <element signature="e#3838#3860#0" expanded="true" />
-            <element signature="e#4520#4547#0" expanded="true" />
-          </folding>
+        <state line="4" column="48" selection-start="137" selection-end="137" vertical-scroll-proportion="0.10830325">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/files/galleria/images/128x128/stock-photo-18988431-transmission-tower.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/frontend/core/engine/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="103" column="0" selection-start="1842" selection-end="1842" vertical-scroll-proportion="0.36044362" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/files/galleria/images/128x128/stock-photo-16702791-electricity-pylon.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/../westhoekkabongers/frontend/core/engine/media.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="211" column="5" selection-start="98" selection-end="4417" vertical-scroll-proportion="-30.5">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/files/galleria/images/x150/stock-photo-19605912-wind-generator-turbines-in-sky.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/frontend/core/engine/media.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="224" column="14" selection-start="4550" selection-end="4550" vertical-scroll-proportion="3.8732395">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

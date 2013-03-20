@@ -20,21 +20,21 @@ class BackendPagesEdit extends BackendBaseActionEdit
 	/**
 	 * The blocks linked to this page
 	 *
-	 * @var	array
+	 * @var    array
 	 */
 	private $blocksContent = array();
 
 	/**
 	 * DataGrid for the drafts
 	 *
-	 * @var	BackendDataGrid
+	 * @var    BackendDataGrid
 	 */
 	private $dgDrafts;
 
 	/**
 	 * The extras
 	 *
-	 * @var	array
+	 * @var    array
 	 */
 	private $extras = array();
 
@@ -48,16 +48,23 @@ class BackendPagesEdit extends BackendBaseActionEdit
 	/**
 	 * The positions
 	 *
-	 * @var	array
+	 * @var    array
 	 */
 	private $positions = array();
 
 	/**
 	 * The template data
 	 *
-	 * @var	array
+	 * @var    array
 	 */
 	private $templates = array();
+
+	/**
+	 * The media-var
+	 *
+	 * @var BackendMedia
+	 */
+	private $media;
 
 	/**
 	 * Execute the action
@@ -126,7 +133,7 @@ class BackendPagesEdit extends BackendBaseActionEdit
 		if($revisionToLoad !== null)
 		{
 			// overwrite the current record
-			$this->record = (array) BackendPagesModel::get($this->id, $revisionToLoad);
+			$this->record = (array)BackendPagesModel::get($this->id, $revisionToLoad);
 
 			// load blocks
 			$this->blocksContent = BackendPagesModel::getBlocks($this->id, $revisionToLoad);
@@ -142,7 +149,7 @@ class BackendPagesEdit extends BackendBaseActionEdit
 		if($draftToLoad !== null)
 		{
 			// overwrite the current record
-			$this->record = (array) BackendPagesModel::get($this->id, $draftToLoad);
+			$this->record = (array)BackendPagesModel::get($this->id, $draftToLoad);
 
 			// load blocks
 			$this->blocksContent = BackendPagesModel::getBlocks($this->id, $draftToLoad);
@@ -309,7 +316,7 @@ class BackendPagesEdit extends BackendBaseActionEdit
 		{
 			$block['index'] = $i + 1;
 			$block['formElements']['chkVisible'] = $this->frm->addCheckbox('block_visible_' . $block['index'], $block['visible'] == 'Y');
-			$block['formElements']['hidExtraId'] = $this->frm->addHidden('block_extra_id_' . $block['index'], (int) $block['extra_id']);
+			$block['formElements']['hidExtraId'] = $this->frm->addHidden('block_extra_id_' . $block['index'], (int)$block['extra_id']);
 			$block['formElements']['hidPosition'] = $this->frm->addHidden('block_position_' . $block['index'], $block['position']);
 			$block['formElements']['txtHTML'] = $this->frm->addTextArea('block_html_' . $block['index'], $block['html']); // this is no editor; we'll add the editor in JS
 
@@ -320,11 +327,7 @@ class BackendPagesEdit extends BackendBaseActionEdit
 		$redirectValue = 'none';
 		if(isset($this->record['data']['internal_redirect']['page_id'])) $redirectValue = 'internal';
 		if(isset($this->record['data']['external_redirect']['url'])) $redirectValue = 'external';
-		$redirectValues = array(
-			array('value' => 'none', 'label' => SpoonFilter::ucfirst(BL::lbl('None'))),
-			array('value' => 'internal', 'label' => SpoonFilter::ucfirst(BL::lbl('InternalLink')), 'variables' => array('isInternal' => true)),
-			array('value' => 'external', 'label' => SpoonFilter::ucfirst(BL::lbl('ExternalLink')), 'variables' => array('isExternal' => true)),
-		);
+		$redirectValues = array(array('value' => 'none', 'label' => SpoonFilter::ucfirst(BL::lbl('None'))), array('value' => 'internal', 'label' => SpoonFilter::ucfirst(BL::lbl('InternalLink')), 'variables' => array('isInternal' => true)), array('value' => 'external', 'label' => SpoonFilter::ucfirst(BL::lbl('ExternalLink')), 'variables' => array('isExternal' => true)),);
 		$this->frm->addRadiobutton('redirect', $redirectValues, $redirectValue);
 		$this->frm->addDropdown('internal_redirect', BackendPagesModel::getPagesForDropdown(), ($redirectValue == 'internal') ? $this->record['data']['internal_redirect']['page_id'] : null);
 		$this->frm->addText('external_redirect', ($redirectValue == 'external') ? $this->record['data']['external_redirect']['url'] : null, null, null, null, true);
@@ -348,6 +351,9 @@ class BackendPagesEdit extends BackendBaseActionEdit
 
 		// set callback for generating an unique URL
 		$this->meta->setURLCallback('BackendPagesModel', 'getURL', array($this->record['id'], $this->record['parent_id'], $isAction));
+
+		//--Media
+		$this->media = new BackendMedia($this->frm, (string) $this->getModule(), (int) $this->id, (string) $this->getAction());
 	}
 
 	/**
@@ -401,7 +407,7 @@ class BackendPagesEdit extends BackendBaseActionEdit
 		$this->tpl->assign('extrasData', json_encode(BackendExtensionsModel::getExtrasData()));
 		$this->tpl->assign('extrasById', json_encode(BackendExtensionsModel::getExtras()));
 		$this->tpl->assign('prefixURL', rtrim(BackendPagesModel::getFullURL($this->record['parent_id']), '/'));
-		$this->tpl->assign('formErrors', (string) $this->frm->getErrors());
+		$this->tpl->assign('formErrors', (string)$this->frm->getErrors());
 
 		// init var
 		$showDelete = true;
@@ -425,6 +431,10 @@ class BackendPagesEdit extends BackendBaseActionEdit
 
 		// parse the tree
 		$this->tpl->assign('tree', BackendPagesModel::getTreeHTML());
+
+
+		//--Add media
+		$this->tpl->assign('mediaItems', $this->media->getMediaItems());
 	}
 
 	/**
@@ -435,6 +445,7 @@ class BackendPagesEdit extends BackendBaseActionEdit
 		// is the form submitted?
 		if($this->frm->isSubmitted())
 		{
+
 			// get the status
 			$status = SpoonFilter::getPostValue('status', array('active', 'draft'), 'active');
 
@@ -455,6 +466,9 @@ class BackendPagesEdit extends BackendBaseActionEdit
 			// validate meta
 			$this->meta->validate();
 
+			//--Validate Media
+			$this->media->validate();
+
 			// no errors?
 			if($this->frm->isCorrect())
 			{
@@ -470,8 +484,8 @@ class BackendPagesEdit extends BackendBaseActionEdit
 				$page['id'] = $this->record['id'];
 				$page['user_id'] = BackendAuthentication::getUser()->getUserId();
 				$page['parent_id'] = $this->record['parent_id'];
-				$page['template_id'] = (int) $this->frm->getField('template_id')->getValue();
-				$page['meta_id'] = (int) $this->meta->save();
+				$page['template_id'] = (int)$this->frm->getField('template_id')->getValue();
+				$page['meta_id'] = (int)$this->meta->save();
 				$page['language'] = BackendLanguage::getWorkingLanguage();
 				$page['type'] = $this->record['type'];
 				$page['title'] = $this->frm->getField('title')->getValue();
@@ -491,10 +505,10 @@ class BackendPagesEdit extends BackendBaseActionEdit
 
 				if($this->isGod)
 				{
-					$page['allow_move'] = (in_array('move', (array) $this->frm->getField('allow')->getValue())) ? 'Y' : 'N';
-					$page['allow_children'] = (in_array('children', (array) $this->frm->getField('allow')->getValue())) ? 'Y' : 'N';
-					$page['allow_edit'] = (in_array('edit', (array) $this->frm->getField('allow')->getValue())) ? 'Y' : 'N';
-					$page['allow_delete'] = (in_array('delete', (array) $this->frm->getField('allow')->getValue())) ? 'Y' : 'N';
+					$page['allow_move'] = (in_array('move', (array)$this->frm->getField('allow')->getValue())) ? 'Y' : 'N';
+					$page['allow_children'] = (in_array('children', (array)$this->frm->getField('allow')->getValue())) ? 'Y' : 'N';
+					$page['allow_edit'] = (in_array('edit', (array)$this->frm->getField('allow')->getValue())) ? 'Y' : 'N';
+					$page['allow_delete'] = (in_array('delete', (array)$this->frm->getField('allow')->getValue())) ? 'Y' : 'N';
 				}
 
 				// set navigation title
