@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<name>instagram</name>
+	<version>1.0.0</version>
+	<requirements>
+		<minimum_version>3.4</minimum_version>
+	</requirements>
+	<description>
+		<![CDATA[
+			This module connects with Instagram and shows the last recent images from a user.
+		]]>
+	</description>
+	<authors>
+		<author>
+			<name><![CDATA[Waldo Cosman (waldo@comsa.be)]]></name>
+			<url><![CDATA[http://www.comsa.be]]></url>
+		</author>
+	</authors>
+	<events>
+        <event application="backend" name="after_saved_settings"><![CDATA[Triggered when settings are saved]]></event>
+    </events>
+</module>

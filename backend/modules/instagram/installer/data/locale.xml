@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale>
+    <backend>
+        <extensions>
+            <item type="label" name="Instagram">
+                <translation language="nl"><![CDATA[Instagram]]></translation>
+            </item>
+        </extensions>
+        <core>
+            <item type="label" name="Instagram">
+                <translation language="nl"><![CDATA[Instagram]]></translation>
+            </item>
+            <item type="label" name="UserMediaRecent">
+                <translation language="nl"><![CDATA[Recente media gebruiker]]></translation>
+            </item>
+        </core>
+        <instagram>
+            <item type="label" name="AccessToken">
+                <translation language="nl"><![CDATA[Toegangs-token]]></translation>
+            </item>
+            <item type="label" name="GetAccessToken">
+                <translation language="nl"><![CDATA[Haal toegangs-token op]]></translation>
+            </item>
+            <item type="label" name="ClientId">
+                <translation language="nl"><![CDATA[Client id]]></translation>
+            </item>
+            <item type="label" name="ClientSecret">
+                <translation language="nl"><![CDATA[Client secret]]></translation>
+            </item>
+            <item type="label" name="InstagramSettingsAPI">
+                <translation language="nl"><![CDATA[Instagram API instellingen]]></translation>
+            </item>
+            <item type="label" name="InstagramUserImagesSettings">
+                <translation language="nl"><![CDATA[Instagram instellingen: foto&#039;s van gebruiker]]></translation>
+            </item>
+            <item type="label" name="RedirectUri">
+                <translation language="nl"><![CDATA[Redirect uri]]></translation>
+            </item>
+            <item type="label" name="UserMediaRecentCount">
+                <translation language="nl"><![CDATA[# afbeeldingen recente media]]></translation>
+            </item>
+            <item type="label" name="WebsiteUrl">
+                <translation language="nl"><![CDATA[Website url]]></translation>
+            </item>
+            <item type="error" name="ErrorOccured">
+                <translation language="nl">
+                    <![CDATA[Er is een probleem opgetreden.  Probeer het later opnieuw.]]></translation>
+            </item>
+        </instagram>
+    </backend>
+    <frontend>
+        <core>
+            <item type="label" name="LoadingInstagramImages">
+                <translation language="nl"><![CDATA[Laden afbeeldingen Instagram]]></translation>
+            </item>
+        </core>
+    </frontend>
+</locale>
