@@ -68,35 +68,7 @@
     <favorites_list name="fork-cms-core" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="media.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/frontend/core/engine/media.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="224" column="14" selection-start="4550" selection-end="4550" vertical-scroll-proportion="3.8732395">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="media.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../westhoekkabongers/frontend/core/engine/media.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="211" column="5" selection-start="98" selection-end="4417" vertical-scroll-proportion="-30.5">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="media.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/core/engine/media.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="141" column="5" selection-start="1416" selection-end="2240" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -797,7 +769,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32743362" sideWeight="0.4978567" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2767912" sideWeight="0.3263041" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22596449" sideWeight="0.6006637" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22596449" sideWeight="0.6006637" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39933628" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3233313" sideWeight="0.21238938" order="2" side_tool="true" content_ui="tabs" />
@@ -909,13 +881,6 @@
         <state line="43" column="21" selection-start="935" selection-end="935" vertical-scroll-proportion="0.66366905" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend/core/engine/media.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="141" column="5" selection-start="1416" selection-end="2240" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/frontend/modules/pages/engine/model.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="6" selection-start="506" selection-end="506" vertical-scroll-proportion="0.37769786" />
@@ -961,16 +926,23 @@
         <state line="103" column="0" selection-start="1842" selection-end="1842" vertical-scroll-proportion="0.36044362" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../westhoekkabongers/frontend/core/engine/media.php">
+    <entry file="file://$PROJECT_DIR$/frontend/core/engine/media.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="211" column="5" selection-start="98" selection-end="4417" vertical-scroll-proportion="-30.5">
+        <state line="20" column="15" selection-start="195" selection-end="195" vertical-scroll-proportion="0.28169015">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/core/engine/media.php">
+    <entry file="file://$PROJECT_DIR$/../westhoekkabongers/frontend/core/engine/media.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="224" column="14" selection-start="4550" selection-end="4550" vertical-scroll-proportion="3.8732395">
+        <state line="211" column="5" selection-start="98" selection-end="4417" vertical-scroll-proportion="0.85915494">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/core/engine/media.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="141" column="5" selection-start="1416" selection-end="2240" vertical-scroll-proportion="0.017605634">
           <folding />
         </state>
       </provider>

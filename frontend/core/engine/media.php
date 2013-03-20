@@ -37,12 +37,28 @@ class FrontendMedia
 	 *
 	 * @return array
 	 */
-	public static function getFromModule($module, $id)
+	public static function getFromModule($module, $id, $identifier = null, $limit = 0)
 	{
-		$records = FrontendModel::getDB()->getRecords("SELECT m.id, filename FROM media AS m
-															INNER JOIN media_modules AS mm ON mm.media_id = m.id
-														WHERE mm.module = ? AND mm.other_id = ?
-														ORDER BY m.id", array($module, $id));
+
+		//--Check the limit
+		$limitQuery = $limit > 0 ? 'LIMIT ' . $limit : '';
+
+		//--Check if identifier is null
+		if($identifier == null)
+		{
+			$records = FrontendModel::getDB()->getRecords("SELECT m.id, filename FROM media AS m
+																INNER JOIN media_modules AS mm ON mm.media_id = m.id
+															WHERE mm.module = ? AND mm.other_id = ?
+															ORDER BY mm.sequence ASC " . $limitQuery, array($module, $id));
+
+		}
+		else
+		{
+			$records = FrontendModel::getDB()->getRecords("SELECT m.id, filename FROM media AS m
+																INNER JOIN media_modules AS mm ON mm.media_id = m.id
+															WHERE mm.module = ? AND mm.other_id = ? AND mm.identifier = ?
+															ORDER BY mm.sequence ASC " . $limitQuery, array($module, $id, $identifier));
+		}
 		//--Loop records
 		if(!empty($records))
 		{
