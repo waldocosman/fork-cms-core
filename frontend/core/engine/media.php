@@ -8,22 +8,78 @@
 
 class FrontendMedia
 {
+	/**
+	 * Field
+	 *
+	 * @var field
+	 */
+	protected $field;
 
-	protected static $field;
+	/**
+	 * fieldTypeImage
+	 *
+	 * @var int
+	 */
+	private $fieldTypeImage = 1;
 
-	private static $fieldTypeImage = 1;
+	/**
+	 * fieldTypeFile
+	 *
+	 * @var int
+	 */
+	private $fieldTypeFile = 2;
 
-	private static $fieldTypeFile = 2;
+	/**
+	 * Get all the mediaitems linked to the module
+	 *
+	 * @param int module
+	 * @param int id
+	 *
+	 * @return array
+	 */
+	public static function getFromModule($module, $id)
+	{
+		$records = FrontendModel::getDB()->getRecords("SELECT m.id, filename FROM media AS m
+															INNER JOIN media_modules AS mm ON mm.media_id = m.id
+														WHERE mm.module = ? AND mm.other_id = ?
+														ORDER BY m.id", array($module, $id));
+		//--Loop records
+		if(!empty($records))
+		{
+			//--Get the thumbnail-folders
+			$folders = FrontendModel::getThumbnailFolders(FRONTEND_FILES_PATH . '/media/images', true);
 
+			//--Create the image-links to the thumbnail folders
+			foreach($records as &$row)
+			{
+				foreach($folders as $folder) {
+					$row['image_' . $folder['dirname']] = $folder['url'] . '/' . $row['filename'];
+				}
+			}
+
+			return $records;
+		}
+
+		return array();
+	}
+
+	/**
+	 * Add file
+	 *
+	 * @param        $field
+	 * @param string $module
+	 * @param null $other_id
+	 * @param string $identifier
+	 *
+	 * @return int
+	 */
 	public static function addFile($field, $module = "", $other_id = null, $identifier = "")
 	{
 
 		self::$field = $field;
 
-
 		//--Upload file
 		$id = self::uploadFile($field);
-
 
 		//--Check if there is a module and id available
 		if($module != "" && !is_null($other_id))
@@ -34,13 +90,12 @@ class FrontendMedia
 		return $id;
 	}
 
-
 	/***
 	 * Upload a file
 	 *
-	 * @param $field
+	 * @return int
 	 */
-	public static function uploadFile()
+	private static function uploadFile()
 	{
 		//--Check if the file is an image or file
 		if(self::isImage())
@@ -56,7 +111,7 @@ class FrontendMedia
 
 		// create folders if needed
 		if(!SpoonDirectory::exists($path . '/source')) SpoonDirectory::create($path . '/source');
-
+		if(!SpoonDirectory::exists($path . '/128x128')) SpoonDirectory::create($path . '/128x128');
 
 		// build the filename
 		$filename = self::checkFilename();
@@ -72,27 +127,20 @@ class FrontendMedia
 		//--Check if file is an image to specify data
 		if(self::isImage())
 		{
-
-			// create folders if needed
-			if(!SpoonDirectory::exists($path . '/128x128')) SpoonDirectory::create($path . '/128x128');
-
 			$item["filetype"] = self::$fieldTypeImage;
 			$data["width"] = self::$field->getWidth();
 			$data["height"] = self::$field->getHeight();
 
 			// upload the image & generate thumbnails
 			self::$field->generateThumbnails($path, $filename);
-
 		}
 		else
 		{
 			$item["filetype"] = self::$fieldTypeFile;
 
 			// move the source file
-			self::$field->moveFile($path . "/". $filename);
+			self::$field->moveFile($path . "/" . $filename);
 		}
-
-
 
 		//--Serialize data
 		$item["data"] = serialize($data);
@@ -102,13 +150,12 @@ class FrontendMedia
 
 		//--Insert into media
 		return $db->insert("media", $item);
-
 	}
 
 	/***
 	 * Check if the field is an image
 	 *
-	 * @param $field
+	 * @return boolean
 	 */
 	protected static function isImage()
 	{
@@ -131,13 +178,14 @@ class FrontendMedia
 	 * @param $extension
 	 * @param $try
 	 *
+	 * @return string
 	 */
 	protected static function checkFilename($filename = "", $extension = "", $try = 0)
 	{
 		//--Check if filename is empty
 		if($filename == "")
 		{
-			$filename = substr(self::$field->getFilename(), 0, 0 - (strlen(self::$field->getExtension())+1));
+			$filename = substr(self::$field->getFilename(), 0, 0 - (strlen(self::$field->getExtension()) + 1));
 		}
 
 		//--Check if extension is empty
@@ -165,29 +213,30 @@ class FrontendMedia
 		else
 		{
 			//--Get new filename
-			return self::checkFilename($filename, $extension, $try +1);
+			return self::checkFilename($filename, $extension, $try + 1);
 		}
 	}
+
 	/***
 	 * Link media to module
+	 *
 	 * @param $id
 	 * @param $module
 	 * @param $other_id
 	 * @param string $identifier
+	 *
+	 * @return int
 	 */
-
 	protected static function linkMediaToModule($media_id, $module, $other_id, $identifier = "")
 	{
 
 		$db = FrontendModel::getDB(true);
 
 		//--Calculate sequence
-		$sequence = (int) $db->getVar(
-									'SELECT MAX(i.sequence)
-									 FROM media_modules AS i
-									 WHERE i.module = ? AND other_id = ? and identifier = ?',
-									array((int) $module, $other_id, $identifier));
-		$sequence +=1;
+		$sequence = (int)$db->getVar('SELECT MAX(i.sequence)
+			 FROM media_modules AS i
+			 WHERE i.module = ? AND other_id = ? and identifier = ?', array((int)$module, $other_id, $identifier));
+		$sequence += 1;
 
 		$insert = array();
 		$insert["media_id"] = $media_id;
@@ -203,4 +252,17 @@ class FrontendMedia
 		return $db->insert("media_modules", $insert);
 	}
 
+	/***
+	 * Get the media-record
+	 *
+	 * @param int $id
+	 *
+	 * @return mixed
+	 */
+	public static function get($id)
+	{
+		$db = FrontendModel::getDB();
+
+		return $db->getRecord("SELECT * FROM media WHERE id = ?", array($id));
+	}
 }
