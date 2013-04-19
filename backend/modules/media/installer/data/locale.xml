@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale>
+	<backend>
+		<media>
+		</media>
+		<core>
+			<item type="label" name="Media">
+				<translation language="nl"><![CDATA[Media]]></translation>
+				<translation language="en"><![CDATA[Media]]></translation>
+			</item>
+            <item type="label" name="DeleteImage">
+                <translation language="nl"><![CDATA[verwijder afbeelding]]></translation>
+                <translation language="en"><![CDATA[delete image]]></translation>
+            </item>
+            <item type="message" name="Added">
+                <translation language="nl"><![CDATA[de afbeelding werd toegevoegd]]></translation>
+                <translation language="en"><![CDATA[the image is added]]></translation>
+            </item>
+		</core>
+	</backend>
+	<frontend>
+		<core>
+		</core>
+	</frontend>
+</locale>

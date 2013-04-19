@@ -21,6 +21,7 @@
 			<li><a href="#tabContent">{$lblContent|ucfirst}</a></li>
 			<li><a href="#tabSEO">{$lblSEO|ucfirst}</a></li>
 			<li><a href="#tabFeedback">{$lblFeedback|ucfirst} <span class="positiveFeedback">({$item.num_usefull_yes})</span> <span class="negativeFeedback">({$item.num_usefull_no})</span></a>
+			<li><a href="#tabMedia">{$lblMedia|ucfirst}</a></li>
 		</ul>
 
 		<div id="tabContent">
@@ -118,6 +119,9 @@
 		<div id="tabSEO">
 			{include:{$BACKEND_CORE_PATH}/layout/templates/seo.tpl}
 		</div>
+        <div id="tabMedia">
+            {include:{$BACKEND_CORE_PATH}/../modules/media/layout/templates/media.tpl}
+        </div>
 	</div>
 
 	<div class="fullwidthOptions">

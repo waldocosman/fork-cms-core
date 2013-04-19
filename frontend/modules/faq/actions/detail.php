@@ -131,6 +131,9 @@ class FrontendFaqDetail extends FrontendBaseBlock
 		// assign settings
 		$this->tpl->assign('settings', $this->settings);
 
+		//--Get imagess for the page
+		$this->tpl->assign("mediaItemsFaq", FrontendMediaHelper::getFromModule("faq", $this->record["id"]));
+
 		// parse the form
 		if(empty($this->status)) $this->frm->parse($this->tpl);
 

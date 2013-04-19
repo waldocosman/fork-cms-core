@@ -615,7 +615,7 @@ class BackendModel
 		// fetch modules
 		$modules = self::getModules();
 
-		// loop and add into the return-array (with correct label)
+			// loop and add into the return-array (with correct label)
 		foreach($modules as $module)
 		{
 			$dropdown[$module] = SpoonFilter::ucfirst(BL::lbl(SpoonFilter::toCamelCase($module)));

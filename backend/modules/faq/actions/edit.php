@@ -23,6 +23,13 @@ class BackendFaqEdit extends BackendBaseActionEdit
 	private $feedback;
 
 	/**
+	 * The media-var
+	 *
+	 * @var BackendMedia
+	 */
+	private $media;
+
+	/**
 	 * Execute the action
 	 */
 	public function execute()
@@ -72,6 +79,10 @@ class BackendFaqEdit extends BackendBaseActionEdit
 		$this->frm->addText('tags', BackendTagsModel::getTags($this->URL->getModule(), $this->record['id']), null, 'inputText tagBox', 'inputTextError tagBox');
 
 		$this->meta = new BackendMeta($this->frm, $this->record['meta_id'], 'title', true);
+
+		//--Media
+		$this->media = new BackendMediaHelper($this->frm, (string) $this->getModule(), (int) $this->id, (string) $this->getAction());
+
 	}
 
 	/**
@@ -89,6 +100,8 @@ class BackendFaqEdit extends BackendBaseActionEdit
 		// assign the active record and additional variables
 		$this->tpl->assign('item', $this->record);
 		$this->tpl->assign('feedback', $this->feedback);
+		//--Add media
+		$this->tpl->assign('mediaItems', $this->media->getMediaItems());
 	}
 
 	/**
@@ -107,6 +120,9 @@ class BackendFaqEdit extends BackendBaseActionEdit
 			$this->frm->getField('answer')->isFilled(BL::err('AnswerIsRequired'));
 			$this->frm->getField('category_id')->isFilled(BL::err('CategoryIsRequired'));
 			$this->meta->validate();
+
+			//--Validate Media
+			$this->media->validate();
 
 			if($this->frm->isCorrect())
 			{

@@ -126,7 +126,6 @@ class FrontendSearchModel
 
 			$params = array_merge($terms, $terms, array(FRONTEND_LANGUAGE, 'Y', 'Y', $offset, $limit));
 		}
-
 		return (array) FrontendModel::getDB()->getRecords($query, $params);
 	}
 

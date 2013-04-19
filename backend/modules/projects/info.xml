@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<name>projects</name>
+	<version>1.0.0</version>
+	<requirements>
+		<minimum_version>3.4</minimum_version>
+	</requirements>
+	<description>
+		<![CDATA[
+			In the project module, you can add categories and projects.
+		]]>
+	</description>
+	<authors>
+		<author>
+			<name><![CDATA[Waldo Cosman (waldo@comsa.be)]]></name>
+			<url><![CDATA[http://www.comsa.be]]></url>
+		</author>
+	</authors>
+	<events>
+        <event application="backend" name="after_add"><![CDATA[Triggered when a project is added.]]></event>
+        <event application="backend" name="after_delete"><![CDATA[Triggered when a project is deleted.]]></event>
+        <event application="backend" name="after_edit"><![CDATA[Triggered when a project is edited.]]></event>
+        <event application="backend" name="after_add_category"><![CDATA[Triggered when a category is added.]]></event>
+        <event application="backend" name="after_delete_category"><![CDATA[Triggered when a category is deleted.]]></event>
+        <event application="backend" name="after_edit_category"><![CDATA[Triggered when a category is edited.]]></event>
+	</events>
+</module>

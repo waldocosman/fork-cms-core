@@ -21,6 +21,5 @@
 	<events>
 		<event application="backend" name=""><![CDATA[]]></event>
         <event application="backend" name="after_saved_settings"><![CDATA[Triggered when settings are saved.]]></event>
-
     </events>
 </module>

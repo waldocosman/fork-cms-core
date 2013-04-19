@@ -65,6 +65,7 @@ class BackendSearchSettings extends BackendBaseActionEdit
 			// check if module is searchable
 			if(!in_array($module, $disallowedModules) && is_callable(array('Frontend' . SpoonFilter::toCamelCase($module) . 'Model', 'search')))
 			{
+
 				// add field to decide wether or not this module is searchable
 				$this->frm->addCheckbox('search_' . $module, isset($this->settings[$module]) ? $this->settings[$module]['searchable'] == 'Y' : false);
 

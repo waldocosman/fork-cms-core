@@ -12,11 +12,16 @@
 	</description>
 	<authors>
 		<author>
-			<name><![CDATA[]]></name>
-			<url><![CDATA[]]></url>
+			<name><![CDATA[Waldo Cosman (waldo@comsa.be)]]></name>
+			<url><![CDATA[http://www.comsa.be]]></url>
 		</author>
 	</authors>
 	<events>
-		<event application="backend" name=""><![CDATA[]]></event>
+        <event application="backend" name="after_add"><![CDATA[Triggered when a contest is added.]]></event>
+        <event application="backend" name="after_delete"><![CDATA[Triggered when a contest is deleted.]]></event>
+        <event application="backend" name="after_edit"><![CDATA[Triggered when a contest is edited.]]></event>
+        <event application="backend" name="after_add_question"><![CDATA[Triggered when a question is added.]]></event>
+        <event application="backend" name="after_delete_question"><![CDATA[Triggered when a question is deleted.]]></event>
+        <event application="backend" name="after_edit_question"><![CDATA[Triggered when a question is edited.]]></event>
 	</events>
 </module>

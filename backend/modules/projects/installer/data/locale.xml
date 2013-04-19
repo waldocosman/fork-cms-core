@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale>
+	<backend>
+        <projects>
+            <item type="label" name="Introduction">
+                <translation language="nl"><![CDATA[Intro]]></translation>
+                <translation language="en"><![CDATA[Intro]]></translation>
+            </item>
+            <item type="label" name="No">
+                <translation language="nl"><![CDATA[Nee]]></translation>
+                <translation language="en"><![CDATA[No]]></translation>
+            </item>
+            <item type="label" name="Yes">
+                <translation language="nl"><![CDATA[Ja]]></translation>
+                <translation language="en"><![CDATA[Yes]]></translation>
+            </item>
+            <item type="message" name="ShowOnlyItemsInCategory">
+                <translation language="nl"><![CDATA[Toon enkel berichten in de categorie]]></translation>
+                <translation language="en"><![CDATA[Show only messages in this category]]></translation>
+            </item>
+        </projects>
+		<core>
+			<item type="label" name="Projects">
+				<translation language="nl"><![CDATA[Projecten]]></translation>
+				<translation language="en"><![CDATA[projects]]></translation>
+			</item>
+		</core>
+	</backend>
+	<frontend>
+        <core>
+            <item type="label" name="MoreProjectsAbout">
+                <translation language="nl"><![CDATA[Meer projecten over]]></translation>
+            </item>
+            <item type="label" name="NextProject">
+                <translation language="nl"><![CDATA[Volgend project]]></translation>
+            </item>
+            <item type="label" name="PreviousProject">
+                <translation language="nl"><![CDATA[Vorig project]]></translation>
+            </item>
+            <item type="label" name="Project">
+                <translation language="nl"><![CDATA[Project]]></translation>
+            </item>
+        </core>
+	</frontend>
+</locale>
