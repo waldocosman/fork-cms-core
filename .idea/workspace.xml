@@ -5,22 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a41758fe-d83e-476a-a073-e174d2805333" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/cache/navigation/navigation.php" afterPath="$PROJECT_DIR$/backend/cache/navigation/navigation.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/utilities/layout/templates/index.tpl" afterPath="$PROJECT_DIR$/frontend/modules/utilities/layout/templates/index.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/fork-cms-core.iml" afterPath="$PROJECT_DIR$/.idea/fork-cms-core.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/modules/utilities/layout/templates/index.tpl" afterPath="$PROJECT_DIR$/backend/modules/utilities/layout/templates/index.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/utilities/actions/index.php" afterPath="$PROJECT_DIR$/frontend/modules/utilities/actions/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.txt" afterPath="$PROJECT_DIR$/test.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/modules/utilities/engine/model.php" afterPath="$PROJECT_DIR$/backend/modules/utilities/engine/model.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/utilities/actions/index.php" afterPath="$PROJECT_DIR$/frontend/modules/utilities/actions/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/cache/navigation/navigation.php" afterPath="$PROJECT_DIR$/backend/cache/navigation/navigation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/modules/utilities/engine/model.php" afterPath="$PROJECT_DIR$/backend/modules/utilities/engine/model.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/fork-cms-core.iml" afterPath="$PROJECT_DIR$/.idea/fork-cms-core.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/modules/utilities/layout/templates/index.tpl" afterPath="$PROJECT_DIR$/frontend/modules/utilities/layout/templates/index.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/modules/utilities/layout/templates/index.tpl" afterPath="$PROJECT_DIR$/backend/modules/utilities/layout/templates/index.tpl" />
     </list>
     <ignored path="fork-cms-core.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,20 +31,20 @@
     <file path="/media_recent.php" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363353180773" ignored="false" />
     <file path="/media_recent.tpl" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363351382740" ignored="false" />
     <file path="/instagram.js" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363356912794" ignored="false" />
-    <file path="/a.dummy" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1366031193784" ignored="false" />
+    <file path="/a.dummy" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1366361336961" ignored="false" />
     <file path="/dummy.xml" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1365597515653" ignored="false" />
     <file path="/instagram.css" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363355562968" ignored="false" />
     <file path="/user_media_recent.php" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363611308056" ignored="false" />
-    <file path="/info.xml" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1366357742367" ignored="false" />
+    <file path="/info.xml" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1366376941117" ignored="false" />
     <file path="/a.php" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1365601686432" ignored="false" />
-    <file path="/locale.xml" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1366272024295" ignored="false" />
+    <file path="/locale.xml" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1366375758502" ignored="false" />
     <file path="/media.php" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363784434025" ignored="false" />
     <file path="/edit.php" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1365075788156" ignored="false" />
     <file path="/edit.tpl" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1365585971100" ignored="false" />
     <file path="/media.tpl" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363708685441" ignored="false" />
     <file path="/media.css" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363708613581" ignored="false" />
     <file path="/screen.css" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363708445512" ignored="false" />
-    <file path="/edit.js" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363709249564" ignored="false" />
+    <file path="/edit.js" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1366376246671" ignored="false" />
     <file path="/page.php" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363710068226" ignored="false" />
     <file path="/head.tpl" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363709864126" ignored="false" />
     <file path="/default.tpl" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1363710178350" ignored="false" />
@@ -67,6 +67,9 @@
     <file path="/category.tpl" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1365605644554" ignored="false" />
     <file path="/detail.tpl" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1365606054393" ignored="false" />
     <file path="/database.php" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1365607320062" ignored="false" />
+    <file path="/edit_album.php" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1366370795607" ignored="false" />
+    <file path="/uploadify.css" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1366375605602" ignored="false" />
+    <file path="/uploadify.php" changelist="a41758fe-d83e-476a-a073-e174d2805333" time="1366371899966" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,100 +89,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="add.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/modules/contest/actions/add.php">
+      <file leaf-file-name="edit_album.tpl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/modules/galleria/layout/templates/edit_album.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="37.625">
+            <state line="100" column="89" selection-start="4893" selection-end="4922" vertical-scroll-proportion="-12.5">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="add_question.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/modules/contest/actions/add_question.php">
+      <file leaf-file-name="uploadify.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/modules/galleria/layout/css/uploadify.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="46.916668">
+            <state line="17" column="21" selection-start="439" selection-end="439" vertical-scroll-proportion="-3.6363637">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="delete.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/modules/contest/actions/delete.php">
+      <file leaf-file-name="edit.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/modules/galleria/js/edit.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="delete_question.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/modules/contest/actions/delete_question.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="edit.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/modules/contest/actions/edit.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="58.25">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="edit_question.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/modules/contest/actions/edit_question.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="51.291668">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="info.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/modules/instagram/info.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="56" selection-start="358" selection-end="375" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="info.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/modules/projects/info.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="56" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="info.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/modules/utilities/info.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="0" selection-start="836" selection-end="836" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="info.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/modules/galleria/info.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="9" selection-start="1407" selection-end="1407" vertical-scroll-proportion="0.0">
+            <state line="49" column="60" selection-start="1353" selection-end="1353" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="info.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/backend/modules/contest/info.xml">
+        <entry file="file://$PROJECT_DIR$/backend/modules/galleria/info.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="56" selection-start="447" selection-end="447" vertical-scroll-proportion="0.25">
+            <state line="12" column="38" selection-start="277" selection-end="277" vertical-scroll-proportion="0.20547946">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit_album.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/modules/galleria/actions/edit_album.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="167" column="62" selection-start="4193" selection-end="4193" vertical-scroll-proportion="56.833332">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="locale.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/modules/galleria/installer/data/locale.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="110" column="66" selection-start="6642" selection-end="6642" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -206,13 +164,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/backend/modules/projects/layout/templates/add.tpl" />
-        <option value="$PROJECT_DIR$/backend/modules/projects/layout/templates/add_category.tpl" />
-        <option value="$PROJECT_DIR$/backend/modules/projects/layout/templates/edit.tpl" />
-        <option value="$PROJECT_DIR$/backend/modules/projects/layout/templates/edit_category.tpl" />
-        <option value="$PROJECT_DIR$/frontend/modules/projects/engine/model.php" />
-        <option value="$PROJECT_DIR$/backend/modules/galleria/installer/data/locale.xml" />
-        <option value="$PROJECT_DIR$/backend/modules/media/installer/data/locale.xml" />
         <option value="$PROJECT_DIR$/../kevinvanmaele/frontend/modules/projects/actions/detail.php" />
         <option value="$PROJECT_DIR$/backend/modules/media/info.xml" />
         <option value="$PROJECT_DIR$/backend/modules/projects/actions/delete_category.php" />
@@ -220,8 +171,15 @@
         <option value="$PROJECT_DIR$/backend/modules/galleria/actions/delete_category.php" />
         <option value="$PROJECT_DIR$/backend/modules/utilities/info.xml" />
         <option value="$PROJECT_DIR$/backend/modules/projects/info.xml" />
-        <option value="$PROJECT_DIR$/backend/modules/galleria/info.xml" />
         <option value="$PROJECT_DIR$/backend/modules/contest/info.xml" />
+        <option value="$PROJECT_DIR$/backend/modules/galleria/actions/edit.php" />
+        <option value="$PROJECT_DIR$/backend/modules/galleria/actions/edit_album.php" />
+        <option value="$PROJECT_DIR$/backend/modules/galleria/ajax/uploadify.php" />
+        <option value="$PROJECT_DIR$/backend/modules/galleria/layout/templates/edit_album.tpl" />
+        <option value="$PROJECT_DIR$/backend/modules/galleria/layout/css/uploadify.css" />
+        <option value="$PROJECT_DIR$/backend/modules/galleria/installer/data/locale.xml" />
+        <option value="$PROJECT_DIR$/backend/modules/galleria/js/edit.js" />
+        <option value="$PROJECT_DIR$/backend/modules/galleria/info.xml" />
       </list>
     </option>
   </component>
@@ -312,7 +270,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -362,72 +319,6 @@
               <option name="myItemId" value="modules" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="utilities" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fork-cms-core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fork-cms-core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="backend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fork-cms-core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fork-cms-core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="backend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="projects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fork-cms-core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fork-cms-core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="backend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="instagram" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -451,56 +342,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fork-cms-core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fork-cms-core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="backend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="contest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fork-cms-core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fork-cms-core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="backend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="contest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="actions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -517,16 +361,16 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../mmib" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="205" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="999" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="999" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="999" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="205" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="201" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PublishConfig" serverName="fork-cms-core" serverId="2b8e6bdf-fa9b-4e54-80e9-96ac6d9eb990">
     <servers>
@@ -805,7 +649,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32964602" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2767912" sideWeight="0.3263041" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27740356" sideWeight="0.67256635" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28107777" sideWeight="0.67256635" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3233313" sideWeight="0.21238938" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852387" sideWeight="0.4978567" order="11" side_tool="true" content_ui="tabs" />
@@ -814,7 +658,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32743362" sideWeight="0.4978567" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32743362" sideWeight="0.4978567" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296582" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32964602" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -884,104 +728,108 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/backend/modules/galleria/actions/delete_album.php">
+    <entry file="file://$USER_HOME$/Downloads/uploadify/uploadify.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="82" selection-start="1103" selection-end="1203" vertical-scroll-proportion="0.6866197" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend/modules/galleria/actions/delete_category.php">
+    <entry file="file://$PROJECT_DIR$/frontend/modules/utilities/ajax/fontsize.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="85" selection-start="1086" selection-end="1086" vertical-scroll-proportion="0.65140843" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend/modules/galleria/actions/edit.php">
+    <entry file="file://$PROJECT_DIR$/frontend/modules/utilities/widgets/fontsize.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.4119718" />
+        <state line="50" column="52" selection-start="1169" selection-end="1242" vertical-scroll-proportion="0.6781883">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/utilities/js/utilities.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="29" selection-start="1163" selection-end="1163" vertical-scroll-proportion="0.49594438">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/files/galleria/images/128x128/stock-photo-16597698-back-yard.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/files/galleria/images/128x128/stock-photo-16597698-back-yard1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/modules/galleria/ajax/uploadify.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="108" column="30" selection-start="2172" selection-end="2172" vertical-scroll-proportion="0.5530393">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/modules/galleria/js/jquery.uploadify.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/modules/galleria/js/galleria.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/modules/blog/js/blog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="77" selection-start="1199" selection-end="1225" vertical-scroll-proportion="0.9647059">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/modules/galleria/layout/css/uploadify.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="21" selection-start="439" selection-end="439" vertical-scroll-proportion="-3.6363637">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/modules/galleria/layout/templates/edit_album.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="100" column="89" selection-start="4893" selection-end="4922" vertical-scroll-proportion="-12.5">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/backend/modules/galleria/actions/edit_album.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.7640047" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/modules/galleria/actions/edit_category.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.4135876" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/modules/contest/actions/add_question.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="46.916668">
+        <state line="167" column="62" selection-start="4193" selection-end="4193" vertical-scroll-proportion="56.833332">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend/modules/contest/actions/delete.php">
+    <entry file="file://$PROJECT_DIR$/backend/modules/galleria/installer/data/locale.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="110" column="66" selection-start="6642" selection-end="6642" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend/modules/contest/actions/delete_question.php">
+    <entry file="file://$PROJECT_DIR$/backend/modules/galleria/js/edit.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/modules/contest/actions/edit.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="58.25">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/modules/contest/actions/add.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="37.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/modules/contest/actions/edit_question.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="51.291668">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/modules/instagram/info.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="56" selection-start="358" selection-end="375" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/modules/projects/info.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="56" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/modules/utilities/info.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="836" selection-end="836" vertical-scroll-proportion="0.0">
+        <state line="49" column="60" selection-start="1353" selection-end="1353" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/backend/modules/galleria/info.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="9" selection-start="1407" selection-end="1407" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/modules/contest/info.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="56" selection-start="447" selection-end="447" vertical-scroll-proportion="0.25">
+        <state line="12" column="38" selection-start="277" selection-end="277" vertical-scroll-proportion="0.20547946">
           <folding />
         </state>
       </provider>
